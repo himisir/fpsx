@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class FPSMovement : MonoBehaviour
 {
-    public GameObject fpsMovement; 
+    public GameObject fpsMovement;
 }
